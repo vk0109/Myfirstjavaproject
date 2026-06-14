@@ -38,5 +38,8 @@ and build a strong foundation for future projects.
 </p>
 
 ---
+<hr>
+## Download
 
+👉 [Download Latest Release](https://github.com/vk0109/Myfirstjavaproject/releases/latest)
 <h3 align="center">⭐ If you like this project, don't forget to star the repository! ⭐</h3>
